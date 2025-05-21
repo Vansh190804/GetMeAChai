@@ -6,3 +6,4 @@ A minimal full-stack website that lets users sign up (via OAuth or credentials),
  3. Discover other users
 4.  Dummy donation via Razorpay (requires test keys)
 5.  Built with Next.js, MongoDB, and Razorpay API
+6.  Responsive UI styled with Tailwind CSS
